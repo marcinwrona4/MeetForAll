@@ -4,13 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.example</groupId>
 	<artifactId>meetforall</artifactId>
-    <packaging>pom</packaging>
-    <version>0.0.1-SNAPSHOT</version>
-    <modules>
-        <module>web</module>
-        <module>server</module>
-    </modules>
-    <name>meetforall</name>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>meetforall</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
